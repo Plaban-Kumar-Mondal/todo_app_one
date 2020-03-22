@@ -1,0 +1,15 @@
+#change{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+}
+
+
+.section{
+    width: 100%;
+    background: #c99ffe;
+    border-radius: 15px;
+    min-height: 350px;
+}
+.dark-mode{
+    background: #222;
+}
